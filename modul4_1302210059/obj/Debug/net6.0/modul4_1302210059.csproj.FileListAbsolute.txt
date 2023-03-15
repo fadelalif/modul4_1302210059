@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\modul4_1302210059.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\modul4_1302210059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\modul4_1302210059.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\modul4_1302210059.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\modul4_1302210059.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\bin\Debug\net6.0\modul4_1302210059.exe
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\bin\Debug\net6.0\modul4_1302210059.deps.json
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\bin\Debug\net6.0\modul4_1302210059.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\bin\Debug\net6.0\modul4_1302210059.dll
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\bin\Debug\net6.0\modul4_1302210059.pdb
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\modul4_1302210059.dll
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\refint\modul4_1302210059.dll
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\modul4_1302210059.pdb
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\modul4_1302210059.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\modul4_1302210059\modul4_1302210059\obj\Debug\net6.0\ref\modul4_1302210059.dll

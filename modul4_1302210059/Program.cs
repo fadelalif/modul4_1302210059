@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            KodeBuah buah = new KodeBuah();
+            Console.WriteLine("Kode buah " + KodeBuah.databuah.Apel + " kodenya adalah: " + buah.getKode(KodeBuah.databuah.Apel));
         }
     }
 }
