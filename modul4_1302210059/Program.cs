@@ -6,6 +6,9 @@
         {
             KodeBuah buah = new KodeBuah();
             Console.WriteLine("Kode buah " + KodeBuah.databuah.Apel + " kodenya adalah: " + buah.getKode(KodeBuah.databuah.Apel));
+
+            PosisiKarakterGame posisi = new PosisiKarakterGame();
+            posisi.triggeredaktif(PosisiKarakterGame.triggered.TombolS)
         }
     }
 }
